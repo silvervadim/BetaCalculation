@@ -1,6 +1,6 @@
 # BetaCalculation
-calculates the covariance factor with the market (SNP 500) for various stocks
+Calculates various stocks' covariance with the market (S&P 500)
 
-this program is a mix of python and sql and command line prompts
+A mix of python, sql and command line prompts
 
-i used python to gather the stock info from yahoo finance
+I used python to gather the stock info from yahoo finance and calculated the actual beta in SQL using joins and CTEs.
